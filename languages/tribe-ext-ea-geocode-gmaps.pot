@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "Project-Id-Version: Event Aggregator Extension: Google Maps Geocoding\n"
-"POT-Creation-Date: 2018-11-14 15:44-0600\n"
-"PO-Revision-Date: 2018-11-14 15:44-0600\n"
+"POT-Creation-Date: 2018-11-14 17:20-0600\n"
+"PO-Revision-Date: 2018-11-14 17:20-0600\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -20,6 +20,25 @@ msgstr ""
 "_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: tribe-ext-ea-geocode-gmaps.php:101
+#, php-format
+msgid ""
+"%s requires PHP version %s or newer to work. Please contact your website "
+"host and inquire about updating PHP."
+msgstr ""
+
+#: tribe-ext-ea-geocode-gmaps.php:124
+msgid "wp-admin > Events > Settings > APIs"
+msgstr ""
+
+#: tribe-ext-ea-geocode-gmaps.php:133
+#, php-format
+msgid ""
+"%s only works when you are using your own custom Google Maps API key. Please "
+"enter it at %s, or deactivate this extension plugin to use the default "
+"geocoding solution, which is likely less accurate."
+msgstr ""
 
 #. Plugin Name of the plugin/theme
 msgid "Event Aggregator Extension: Google Maps Geocoding"
