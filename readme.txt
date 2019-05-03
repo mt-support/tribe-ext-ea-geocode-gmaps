@@ -3,7 +3,7 @@ Contributors: ModernTribe
 Donate link: http://m.tri.be/29
 Tags: events, calendar, import, google maps, geocode
 Requires at least: 4.5
-Tested up to: 4.9.8
+Tested up to: 5.1.1
 Requires PHP: 5.6
 Stable tag: 1.0.0
 License: GPL version 3 or any later version
@@ -37,6 +37,6 @@ We're always interested in your feedback and our [premium forums](https://theeve
 
 == Changelog ==
 
-= [1.0.0] 2018-11-16 =
+= [1.0.0] TBD =
 
 * Initial release
